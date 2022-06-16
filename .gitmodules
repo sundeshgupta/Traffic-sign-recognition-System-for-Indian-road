@@ -1,0 +1,3 @@
+[submodule "cross_dataset/mAP"]
+	path = cross_dataset/mAP
+	url = https://github.com/Cartucho/mAP
